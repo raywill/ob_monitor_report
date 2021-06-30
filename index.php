@@ -40,7 +40,7 @@ h2 { text-decoration:underline;color:blue; cursor:pointer; margin-bottom:20px;}
 
 <div class='help'><h1>SQL Monitor Report</h1><p>使用帮助: <a target='_blank' href='https://yuque.antfin-inc.com/xiaochu.yh/doc/rb6pmq'>https://yuque.antfin-inc.com/xiaochu.yh/doc/rb6pmq</a></p></div>
 
-<form action="/test.php" method="get">
+<form action="test.php" method="get">
   <div class="form-row">
     <div class="form-group col-md-6">
       <label for="ip">IP</label>

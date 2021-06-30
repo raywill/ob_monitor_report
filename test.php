@@ -21,6 +21,6 @@ if (count($m) == 2) {
   echo $cmd;
   echo "<hr />";
   echo $result;
-  echo "<p><a href='/index.php?info-ip=$IP&info-port=$PORT&info-user=$USER&info-pass=$PWD&info-db=$DB&info-traceid=$TRACEID'>Wrong Parameters. Go Back!</a></p>";
+  echo "<p><a href='index.php?info-ip=$IP&info-port=$PORT&info-user=$USER&info-pass=$PWD&info-db=$DB&info-traceid=$TRACEID'>Wrong Parameters. Go Back!</a></p>";
 }
 ?>
